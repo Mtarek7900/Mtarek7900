@@ -1,4 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mohammed Tarek
+
+Cybersecurity Specialist with a strong foundation in backend engineering. I enjoy working at the intersection of secure infrastructure, application security, and system reliability. Former backend dev now applying engineering principles to defending systems and strengthening security posture.
+
+---
+
+### What I Focus On
+- Cybersecurity operations & threat detection  
+- Secure architecture & defensive engineering  
+- Backend systems, APIs & scalable services  
+- Automation, scripting, and continuous learning  
+
+---
+
+### Tech & Tools I’ve Worked With
+- **Security:** SIEM, Splunk, Threat Hunting, Incident Response  
+- **Backend:** Java | Spring Boot | Node.js  
+- **Infrastructure:** Docker | MySQL  
+- **Other:** React, APIs, Sockets, Cloud & Automation
+
+---
+
+### Always Learning
+Exploring deeper into cybersecurity engineering, automation, and advanced backend security practices.
+
+---
+
+### Connect With Me
+Let’s collaborate, learn, and build secure systems together!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mtarek7900/)
 
 <!--
 **Mtarek7900/Mtarek7900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
